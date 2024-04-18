@@ -1,0 +1,67 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #0e3f08;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #02310d;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+footer {
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    background-color: #0a4202;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+.pogchamp {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
+    background-color: #dd13a0;
+    border: 1px solid #8614e4;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.Salmodee h3 {
+    color: #0d978c;
+}
+
+.Gangstarappa p {
+    color: #00ffea;
+}
